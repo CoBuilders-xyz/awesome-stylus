@@ -58,6 +58,7 @@ In-depth conversations with the founders of early Stylus projects, exploring the
 - [Zig Stylus](https://github.com/Stylish-Stylus/zig-stylus) - Zig SDK for Stylus smart contracts
 - [stylus-toolkit](https://github.com/LimeChain/stylus-toolkit) - A toolkit of Stylus primitives and examples of their usage
 - [Stylus Suite](https://github.com/tolgayayci/stylus-vscode-extension) - Manage your Stylus projects with this Vs Code extension. Call cargo stylus methods with simple user interface, use pre defined snippets, chat with Stylus GPT and many more
+- [Hardhat Stylus Plugin](https://github.com/CoBuilders-xyz/hardhat-arbitrum-stylus) - Hardhat plugin suite for compiling, deploying, and testing Stylus smart contracts
 
 ## Libraries
 - [Unit Testing | Open Zepplin](https://github.com/OpenZeppelin/rust-contracts-stylus/blob/main/lib/motsu/README.md) - A Rust testing library that provides utilities and helpers for unit testing your smart contracts.
